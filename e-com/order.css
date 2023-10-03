@@ -1,0 +1,24 @@
+.ordermainn{
+  position: relative;
+  left: 210px;
+  width: 1053px;
+  height: 100cm;
+  background-color: #cad1db67;
+  
+}
+.mainhead{
+  font-size: 28px;
+  color: rgba(1, 34, 47, 0.659);
+  font-weight: bold;
+
+}
+th,td{
+ font-size: 14px;
+ color: red;
+ forced-color-adjust: red;
+}
+body { overflow-x:hidden; }
+button.cat-add{
+  position: absolute;
+  right: 1cm;
+}
